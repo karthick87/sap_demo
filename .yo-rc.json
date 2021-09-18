@@ -1,0 +1,8 @@
+{
+  "generator-anubhav-basicfiori": {
+    "projectName": "demofioriapp",
+    "newDir": true,
+    "projectNamespace": "demo.app",
+    "projectNamespaceModule": "demo/app"
+  }
+}
